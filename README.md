@@ -32,8 +32,5 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" 
 </a>
 <p></p>
-<a href="https://github.com/HK-hub/Short-URL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HK-hub&repo=Short-URL" />
-</a>    
-  
+
 
