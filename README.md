@@ -1,8 +1,8 @@
 ### Hi there 👋 I am HK意境
-
+<p align=left> <img src=https://komarev.com/ghpvc/?username=HK-hub alt=HK-hub /> </p>
 😄很高兴你点开了我的主页
 
-- 🔭 我是一个后端工程师
+- 🔭 我是一个正在修炼的后端开发实习生
 - 🌱 开源了一个仓库：ShortURL短链接生产器
 - 👯 维护了一个公众号：码出意境
 - 📫 你可以通过微信搜索公众号**码出意境**联系我
@@ -25,12 +25,11 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=HK-hub alt=HK-hub /> </p>
 <a href="https://github.com/HK-hub">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK-hub&layout=compact" />
+  <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK-hub&layout=compact" />
 </a>
 <a href="https://github.com/HK-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" 
 </a>
 <p></p>
 <a href="https://github.com/HK-hub/Short-URL">
