@@ -26,10 +26,10 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/HK-hub">
-  <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK-hub&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK-hub&langs_count=3" />
 </a>
 <a href="https://github.com/HK-hub">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&line_height=27&count_private=true" alt="HK-hub's GitHub Stats" />
 </a>
 <p></p>
 
