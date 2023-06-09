@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK-hub&langs_count=3" />
 </a>
 <a href="https://github.com/HK-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&line_height=27&count_private=true" alt="HK-hub's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HK-hub&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="HK-hub's GitHub Stats" />
 </a>
 <p></p>
 
